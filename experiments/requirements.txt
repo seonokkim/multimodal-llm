@@ -1,0 +1,5 @@
+python-dotenv
+transformers>=4.36.0
+# You may need to adjust torch version for your CUDA setup
+# For most users, the following works:
+torch 

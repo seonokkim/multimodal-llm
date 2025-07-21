@@ -188,6 +188,7 @@ Thumbs.db
 .cache/
 huggingface/
 
+
 # TensorBoard
 runs/
 tensorboard_logs/
@@ -207,3 +208,4 @@ mlruns/
 
 # Specific to your project
 flash_attn-*.whl 
+model_files/
